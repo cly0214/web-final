@@ -1137,7 +1137,7 @@ a {
 .cid-tDUlPexeKc .item-wrapper {
   position: unset;
   border-radius: 4px;
-  background: #ffffff;
+  background: #232323;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1170,6 +1170,7 @@ a {
 }
 .cid-tDUlPexeKc .item-title {
   text-align: center;
+  color: #ffffff;
 }
 .cid-tDUlPexeKc .item-subtitle {
   text-align: left;
@@ -1199,7 +1200,7 @@ a {
 .cid-tDUlXSQxdm .item-wrapper {
   position: unset;
   border-radius: 4px;
-  background: #ffffff;
+  background: #232323;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1232,6 +1233,7 @@ a {
 }
 .cid-tDUlXSQxdm .item-title {
   text-align: center;
+  color: #ffffff;
 }
 .cid-tDUlXSQxdm .item-subtitle {
   text-align: left;
